@@ -1,0 +1,6 @@
+{
+  "name": "Komorebi • macOS Pomodoro Desktop & Floating Widget",
+  "description": "Lightweight standalone macOS desktop Pomodoro timer with floating widget, full-screen break lockdown, cumulative milestone tracking, and standalone Python script.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
